@@ -1,0 +1,14 @@
+[package]
+name = "plotting"
+version = "0.1.0"
+authors = ["Chris Ohk <utilforever@gmail.com>"]
+description = "A comprehensive library for creating static, animated, and interactive visualizations in Rust"
+repository = "https://github.com/utilforever/crawl-rs"
+readme = "README.md"
+keywords = [ "plotting", "animation", "visualization", "interactive" ]
+license = "MIT"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
